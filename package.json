@@ -37,6 +37,7 @@
   "devDependencies": {
     "@commitlint/cli": "^21.2.2",
     "@commitlint/config-conventional": "^21.2.2",
+    "@netlify/plugin-nextjs": "^5.16.2",
     "@playwright/test": "^1.62.1",
     "@svgr/webpack": "^8.1.0",
     "@tailwindcss/postcss": "^4",
